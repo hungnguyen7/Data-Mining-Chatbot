@@ -1,0 +1,92 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - thank
+  - eng_ask_neural_network
+  - eng_steps_for_data_wrangling_and_data_cleaning
+  - eng_cross_validation
+  - eng_supervised_learning_vs_unsupervised_learning
+  - eng_nlp
+  - eng_decision_trees
+  - eng_over_fitting
+  - eng_precision_n_recall
+  - eng_regression_model_fits_the_data_well
+  - eng_boosting
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+  - text: "Kính chào Quý khách!"
+  
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_thank:
+  - text: "No problem :D"
+  - text: "Dạ không có gì, đó là trách nhiệm của em mà!"
+
+  utter_eng_ask_neural_network:
+  - text: "A neural network is a multi-layered model inspired by the human brain. Like the neurons in our brain, the circles above represent a node. The blue circles represent the input layer, the black circles represent the hidden layers, and the green circles represent the output layer. Each node in the hidden layers represents a function that the inputs go through, ultimately leading to an output in the green circles. The formal term for these functions is called the sigmoid activation function."
+    image: "https://miro.medium.com/max/875/0*nUvHJmFBGaj3vZqJ.png"
+
+  utter_eng_steps_for_data_wrangling_and_data_cleaning:
+  - text: |
+            There are many steps that can be taken when data wrangling and data cleaning. Some of the most common steps are listed below:
+            - **Data profiling**: Almost everyone starts off by getting an understanding of their dataset. More specifically, you can look at the shape of the dataset with .shape and a description of your numerical variables with .describe().
+            - **Data visualizations**: Sometimes, it’s useful to visualize your data with histograms, boxplots, and scatterplots to better understand the relationships between variables and also to identify potential outliers.
+            - **Syntax error**: This includes making sure there’s no white space, making sure letter casing is consistent, and checking for typos. You can check for typos by using .unique() or by using bar graphs.
+            - **Standardization or normalization**: Depending on the dataset your working with and the machine learning method you decide to use, it may be useful to standardize or normalize your data so that different scales of different variables don’t negatively impact the performance of your model.
+            - **Handling null values**: There are a number of ways to handle null values including deleting rows with null values altogether, replacing null values with the mean/median/mode, replacing null values with a new category (eg. unknown), predicting the values, or using machine learning models that can deal with null values.
+            - **Other things include**: removing irrelevant data, removing duplicates, and type conversion.
+  
+  utter_eng_cross_validation:
+  - text: "Cross-validation is essentially a technique used to assess how well a model performs on a new independent dataset. The simplest example of cross-validation is when you split your data into two groups: training data and testing data, where you use the training data to build the model and the testing data to test the model."
+
+  utter_eng_supervised_learning_vs_unsupervised_learning:
+  - text: |
+            - Supervised learning involves learning a function that maps an input to an output based on example input-output pairs.
+            - Unsupervised learning is used to draw inferences and find patterns from input data without references to labeled outcomes. A common use of unsupervised learning is grouping customers by purchasing behavior to find target markets.
+
+  utter_eng_nlp:
+  - text: "NLP stands for Natural Language Processing. It is a branch of artificial intelligence that gives machines the ability to read and understand human languages."
+
+  utter_eng_decision_trees:
+  - text: "Decision trees are a popular model, used in operations research, strategic planning, and machine learning. Each square above is called a node, and the more nodes you have, the more accurate your decision tree will be (generally). The last nodes of the decision tree, where a decision is made, are called the leaves of the tree. Decision trees are intuitive and easy to build but fall short when it comes to accuracy."
+
+  utter_eng_over_fitting:
+  - text: "Overfitting is an error where the model ‘fits’ the data too well, resulting in a model with high variance and low bias. As a consequence, an overfit model will inaccurately predict new data points even though it has a high accuracy on the training data."
+    image: "https://miro.medium.com/max/471/0*I_TPBWoG-glBVjb2.png"
+
+  utter_eng_precision_n_recall:
+  - text: "Recall attempts to answer “What proportion of actual positives was identified correctly?”\nPrecision attempts to answer “What proportion of positive identifications was actually correct?”"
+
+  utter_eng_regression_model_fits_the_data_well: 
+  - text: |
+            There are a couple of metrics that you can use:
+              - **R-squared/Adjusted R-squared**: Relative measure of fit. This was explained in a previous answer
+              - **F1 Score**: Evaluates the null hypothesis that all regression coefficients are equal to zero vs the alternative hypothesis that at least one doesn’t equal zero
+              - **RMSE**: Absolute measure of fit.
+
+  utter_eng_boosting:
+    - text: "Boosting is an ensemble method to improve a model by reducing its bias and variance, ultimately converting weak learners to strong learners. The general idea is to train a weak learner and sequentially iterate and improve the model by learning from the previous learner."
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
