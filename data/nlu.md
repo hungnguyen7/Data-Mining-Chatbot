@@ -1,3 +1,1157 @@
+## intent:data wrangling and data cleaning
+- What data wrangling and data cleaning
+- What is data wrangling and data cleaning
+- What are data wrangling and data cleaning
+- What data wrangling and data cleaning mean
+- What do data wrangling and data cleaning mean
+- What does data wrangling and data cleaning mean
+- How do data wrangling and data cleaning work
+- How does data wrangling and data cleaning work
+- How do data wrangling and data cleaning run
+- How does data wrangling and data cleaning run
+- How would you explain data wrangling and data cleaning
+- How would u explain data wrangling and data cleaning
+- How would you define data wrangling and data cleaning
+- How would u define data wrangling and data cleaning
+- How would you describe data wrangling and data cleaning
+- How would u describe data wrangling and data cleaning
+- How to data wrangling and data cleaning work
+- How to data wrangling and data cleaning run
+- Can you explain data wrangling and data cleaning
+- Can u explain data wrangling and data cleaning
+- Can you define data wrangling and data cleaning
+- Can u define data wrangling and data cleaning
+- Can you describe data wrangling and data cleaning
+- Can u describe data wrangling and data cleaning
+- I want to know data wrangling and data cleaning
+- I don't know about data wrangling and data cleaning
+- I would like to know about data wrangling and data cleaning
+- I don't understand data wrangling and data cleaning
+- explain data wrangling and data cleaning
+- define data wrangling and data cleaning
+- describe data wrangling and data cleaning
+
+## intent:unbalanced binary classification
+- What unbalanced binary classification
+- What is unbalanced binary classification
+- What are unbalanced binary classification
+- What unbalanced binary classification mean
+- What do unbalanced binary classification mean
+- What does unbalanced binary classification mean
+- How do unbalanced binary classification work
+- How does unbalanced binary classification work
+- How do unbalanced binary classification run
+- How does unbalanced binary classification run
+- How would you explain unbalanced binary classification
+- How would u explain unbalanced binary classification
+- How would you define unbalanced binary classification
+- How would u define unbalanced binary classification
+- How would you describe unbalanced binary classification
+- How would u describe unbalanced binary classification
+- How to unbalanced binary classification work
+- How to unbalanced binary classification run
+- Can you explain unbalanced binary classification
+- Can u explain unbalanced binary classification
+- Can you define unbalanced binary classification
+- Can u define unbalanced binary classification
+- Can you describe unbalanced binary classification
+- Can u describe unbalanced binary classification
+- I want to know unbalanced binary classification
+- I don't know about unbalanced binary classification
+- I would like to know about unbalanced binary classification
+- I don't understand unbalanced binary classification
+- explain unbalanced binary classification
+- define unbalanced binary classification
+- describe unbalanced binary classification
+
+## intent:box plot and histogram
+- What box plot and histogram
+- What is box plot and histogram
+- What are box plot and histogram
+- What box plot and histogram mean
+- What do box plot and histogram mean
+- What does box plot and histogram mean
+- How do box plot and histogram work
+- How does box plot and histogram work
+- How do box plot and histogram run
+- How does box plot and histogram run
+- How would you explain box plot and histogram
+- How would u explain box plot and histogram
+- How would you define box plot and histogram
+- How would u define box plot and histogram
+- How would you describe box plot and histogram
+- How would u describe box plot and histogram
+- How to box plot and histogram work
+- How to box plot and histogram run
+- Can you explain box plot and histogram
+- Can u explain box plot and histogram
+- Can you define box plot and histogram
+- Can u define box plot and histogram
+- Can you describe box plot and histogram
+- Can u describe box plot and histogram
+- I want to know box plot and histogram
+- I don't know about box plot and histogram
+- I would like to know about box plot and histogram
+- I don't understand box plot and histogram
+- explain box plot and histogram
+- define box plot and histogram
+- describe box plot and histogram
+
+## intent:regularization methods
+- What regularization methods
+- What is regularization methods
+- What are regularization methods
+- What regularization methods mean
+- What do regularization methods mean
+- What does regularization methods mean
+- How do regularization methods work
+- How does regularization methods work
+- How do regularization methods run
+- How does regularization methods run
+- How would you explain regularization methods
+- How would u explain regularization methods
+- How would you define regularization methods
+- How would u define regularization methods
+- How would you describe regularization methods
+- How would u describe regularization methods
+- How to regularization methods work
+- How to regularization methods run
+- Can you explain regularization methods
+- Can u explain regularization methods
+- Can you define regularization methods
+- Can u define regularization methods
+- Can you describe regularization methods
+- Can u describe regularization methods
+- I want to know regularization methods
+- I don't know about regularization methods
+- I would like to know about regularization methods
+- I don't understand regularization methods
+- explain regularization methods
+- define regularization methods
+- describe regularization methods
+
+## intent:Neural Network
+- What Neural Network
+- What is Neural Network
+- What are Neural Network
+- What Neural Network mean
+- What do Neural Network mean
+- What does Neural Network mean
+- How do Neural Network work
+- How does Neural Network work
+- How do Neural Network run
+- How does Neural Network run
+- How would you explain Neural Network
+- How would u explain Neural Network
+- How would you define Neural Network
+- How would u define Neural Network
+- How would you describe Neural Network
+- How would u describe Neural Network
+- How to Neural Network work
+- How to Neural Network run
+- Can you explain Neural Network
+- Can u explain Neural Network
+- Can you define Neural Network
+- Can u define Neural Network
+- Can you describe Neural Network
+- Can u describe Neural Network
+- I want to know Neural Network
+- I don't know about Neural Network
+- I would like to know about Neural Network
+- I don't understand Neural Network
+- explain Neural Network
+- define Neural Network
+- describe Neural Network
+
+## intent:cross-validation
+- What cross-validation
+- What is cross-validation
+- What are cross-validation
+- What cross-validation mean
+- What do cross-validation mean
+- What does cross-validation mean
+- How do cross-validation work
+- How does cross-validation work
+- How do cross-validation run
+- How does cross-validation run
+- How would you explain cross-validation
+- How would u explain cross-validation
+- How would you define cross-validation
+- How would u define cross-validation
+- How would you describe cross-validation
+- How would u describe cross-validation
+- How to cross-validation work
+- How to cross-validation run
+- Can you explain cross-validation
+- Can u explain cross-validation
+- Can you define cross-validation
+- Can u define cross-validation
+- Can you describe cross-validation
+- Can u describe cross-validation
+- I want to know cross-validation
+- I don't know about cross-validation
+- I would like to know about cross-validation
+- I don't understand cross-validation
+- explain cross-validation
+- define cross-validation
+- describe cross-validation
+
+## intent:select metrics
+- What select metrics
+- What is select metrics
+- What are select metrics
+- What select metrics mean
+- What do select metrics mean
+- What does select metrics mean
+- How do select metrics work
+- How does select metrics work
+- How do select metrics run
+- How does select metrics run
+- How would you explain select metrics
+- How would u explain select metrics
+- How would you define select metrics
+- How would u define select metrics
+- How would you describe select metrics
+- How would u describe select metrics
+- How to select metrics work
+- How to select metrics run
+- Can you explain select metrics
+- Can u explain select metrics
+- Can you define select metrics
+- Can u define select metrics
+- Can you describe select metrics
+- Can u describe select metrics
+- I want to know select metrics
+- I don't know about select metrics
+- I would like to know about select metrics
+- I don't understand select metrics
+- explain select metrics
+- define select metrics
+- describe select metrics
+
+## intent:precision and recall
+- What precision and recall
+- What is precision and recall
+- What are precision and recall
+- What precision and recall mean
+- What do precision and recall mean
+- What does precision and recall mean
+- How do precision and recall work
+- How does precision and recall work
+- How do precision and recall run
+- How does precision and recall run
+- How would you explain precision and recall
+- How would u explain precision and recall
+- How would you define precision and recall
+- How would u define precision and recall
+- How would you describe precision and recall
+- How would u describe precision and recall
+- How to precision and recall work
+- How to precision and recall run
+- Can you explain precision and recall
+- Can u explain precision and recall
+- Can you define precision and recall
+- Can u define precision and recall
+- Can you describe precision and recall
+- Can u describe precision and recall
+- I want to know precision and recall
+- I don't know about precision and recall
+- I would like to know about precision and recall
+- I don't understand precision and recall
+- explain precision and recall
+- define precision and recall
+- describe precision and recall
+
+## intent:false positive and false negative
+- What false positive and false negative
+- What is false positive and false negative
+- What are false positive and false negative
+- What false positive and false negative mean
+- What do false positive and false negative mean
+- What does false positive and false negative mean
+- How do false positive and false negative work
+- How does false positive and false negative work
+- How do false positive and false negative run
+- How does false positive and false negative run
+- How would you explain false positive and false negative
+- How would u explain false positive and false negative
+- How would you define false positive and false negative
+- How would u define false positive and false negative
+- How would you describe false positive and false negative
+- How would u describe false positive and false negative
+- How to false positive and false negative work
+- How to false positive and false negative run
+- Can you explain false positive and false negative
+- Can u explain false positive and false negative
+- Can you define false positive and false negative
+- Can u define false positive and false negative
+- Can you describe false positive and false negative
+- Can u describe false positive and false negative
+- I want to know false positive and false negative
+- I don't know about false positive and false negative
+- I would like to know about false positive and false negative
+- I don't understand false positive and false negative
+- explain false positive and false negative
+- define false positive and false negative
+- describe false positive and false negative
+
+## intent:supervised learning and unsupervised learning
+- What supervised learning and unsupervised learning
+- What is supervised learning and unsupervised learning
+- What are supervised learning and unsupervised learning
+- What supervised learning and unsupervised learning mean
+- What do supervised learning and unsupervised learning mean
+- What does supervised learning and unsupervised learning mean
+- How do supervised learning and unsupervised learning work
+- How does supervised learning and unsupervised learning work
+- How do supervised learning and unsupervised learning run
+- How does supervised learning and unsupervised learning run
+- How would you explain supervised learning and unsupervised learning
+- How would u explain supervised learning and unsupervised learning
+- How would you define supervised learning and unsupervised learning
+- How would u define supervised learning and unsupervised learning
+- How would you describe supervised learning and unsupervised learning
+- How would u describe supervised learning and unsupervised learning
+- How to supervised learning and unsupervised learning work
+- How to supervised learning and unsupervised learning run
+- Can you explain supervised learning and unsupervised learning
+- Can u explain supervised learning and unsupervised learning
+- Can you define supervised learning and unsupervised learning
+- Can u define supervised learning and unsupervised learning
+- Can you describe supervised learning and unsupervised learning
+- Can u describe supervised learning and unsupervised learning
+- I want to know supervised learning and unsupervised learning
+- I don't know about supervised learning and unsupervised learning
+- I would like to know about supervised learning and unsupervised learning
+- I don't understand supervised learning and unsupervised learning
+- explain supervised learning and unsupervised learning
+- define supervised learning and unsupervised learning
+- describe supervised learning and unsupervised learning
+
+## intent:generate a predictive model using multiple regression
+- What generate a predictive model using multiple regression
+- What is generate a predictive model using multiple regression
+- What are generate a predictive model using multiple regression
+- What generate a predictive model using multiple regression mean
+- What do generate a predictive model using multiple regression mean
+- What does generate a predictive model using multiple regression mean
+- How do generate a predictive model using multiple regression work
+- How does generate a predictive model using multiple regression work
+- How do generate a predictive model using multiple regression run
+- How does generate a predictive model using multiple regression run
+- How would you explain generate a predictive model using multiple regression
+- How would u explain generate a predictive model using multiple regression
+- How would you define generate a predictive model using multiple regression
+- How would u define generate a predictive model using multiple regression
+- How would you describe generate a predictive model using multiple regression
+- How would u describe generate a predictive model using multiple regression
+- How to generate a predictive model using multiple regression work
+- How to generate a predictive model using multiple regression run
+- Can you explain generate a predictive model using multiple regression
+- Can u explain generate a predictive model using multiple regression
+- Can you define generate a predictive model using multiple regression
+- Can u define generate a predictive model using multiple regression
+- Can you describe generate a predictive model using multiple regression
+- Can u describe generate a predictive model using multiple regression
+- I want to know generate a predictive model using multiple regression
+- I don't know about generate a predictive model using multiple regression
+- I would like to know about generate a predictive model using multiple regression
+- I don't understand generate a predictive model using multiple regression
+- explain generate a predictive model using multiple regression
+- define generate a predictive model using multiple regression
+- describe generate a predictive model using multiple regression
+
+## intent:NLP stand for
+- What NLP stand for
+- What is NLP stand for
+- What are NLP stand for
+- What NLP stand for mean
+- What do NLP stand for mean
+- What does NLP stand for mean
+- How do NLP stand for work
+- How does NLP stand for work
+- How do NLP stand for run
+- How does NLP stand for run
+- How would you explain NLP stand for
+- How would u explain NLP stand for
+- How would you define NLP stand for
+- How would u define NLP stand for
+- How would you describe NLP stand for
+- How would u describe NLP stand for
+- How to NLP stand for work
+- How to NLP stand for run
+- Can you explain NLP stand for
+- Can u explain NLP stand for
+- Can you define NLP stand for
+- Can u define NLP stand for
+- Can you describe NLP stand for
+- Can u describe NLP stand for
+- I want to know NLP stand for
+- I don't know about NLP stand for
+- I would like to know about NLP stand for
+- I don't understand NLP stand for
+- explain NLP stand for
+- define NLP stand for
+- describe NLP stand for
+
+## intent:random forests Vs SVM
+- What random forests Vs SVM
+- What is random forests Vs SVM
+- What are random forests Vs SVM
+- What random forests Vs SVM mean
+- What do random forests Vs SVM mean
+- What does random forests Vs SVM mean
+- How do random forests Vs SVM work
+- How does random forests Vs SVM work
+- How do random forests Vs SVM run
+- How does random forests Vs SVM run
+- How would you explain random forests Vs SVM
+- How would u explain random forests Vs SVM
+- How would you define random forests Vs SVM
+- How would u define random forests Vs SVM
+- How would you describe random forests Vs SVM
+- How would u describe random forests Vs SVM
+- How to random forests Vs SVM work
+- How to random forests Vs SVM run
+- Can you explain random forests Vs SVM
+- Can u explain random forests Vs SVM
+- Can you define random forests Vs SVM
+- Can u define random forests Vs SVM
+- Can you describe random forests Vs SVM
+- Can u describe random forests Vs SVM
+- I want to know random forests Vs SVM
+- I don't know about random forests Vs SVM
+- I would like to know about random forests Vs SVM
+- I don't understand random forests Vs SVM
+- explain random forests Vs SVM
+- define random forests Vs SVM
+- describe random forests Vs SVM
+
+## intent:dimension reduction
+- What dimension reduction
+- What is dimension reduction
+- What are dimension reduction
+- What dimension reduction mean
+- What do dimension reduction mean
+- What does dimension reduction mean
+- How do dimension reduction work
+- How does dimension reduction work
+- How do dimension reduction run
+- How does dimension reduction run
+- How would you explain dimension reduction
+- How would u explain dimension reduction
+- How would you define dimension reduction
+- How would u define dimension reduction
+- How would you describe dimension reduction
+- How would u describe dimension reduction
+- How to dimension reduction work
+- How to dimension reduction run
+- Can you explain dimension reduction
+- Can u explain dimension reduction
+- Can you define dimension reduction
+- Can u define dimension reduction
+- Can you describe dimension reduction
+- Can u describe dimension reduction
+- I want to know dimension reduction
+- I don't know about dimension reduction
+- I would like to know about dimension reduction
+- I don't understand dimension reduction
+- explain dimension reduction
+- define dimension reduction
+- describe dimension reduction
+
+## intent:Naives Bayes
+- What Naives Bayes
+- What is Naives Bayes
+- What are Naives Bayes
+- What Naives Bayes mean
+- What do Naives Bayes mean
+- What does Naives Bayes mean
+- How do Naives Bayes work
+- How does Naives Bayes work
+- How do Naives Bayes run
+- How does Naives Bayes run
+- How would you explain Naives Bayes
+- How would u explain Naives Bayes
+- How would you define Naives Bayes
+- How would u define Naives Bayes
+- How would you describe Naives Bayes
+- How would u describe Naives Bayes
+- How to Naives Bayes work
+- How to Naives Bayes run
+- Can you explain Naives Bayes
+- Can u explain Naives Bayes
+- Can you define Naives Bayes
+- Can u define Naives Bayes
+- Can you describe Naives Bayes
+- Can u describe Naives Bayes
+- I want to know Naives Bayes
+- I don't know about Naives Bayes
+- I would like to know about Naives Bayes
+- I don't understand Naives Bayes
+- explain Naives Bayes
+- define Naives Bayes
+- describe Naives Bayes
+
+## intent:drawbacks of linear model
+- What drawbacks of linear model
+- What is drawbacks of linear model
+- What are drawbacks of linear model
+- What drawbacks of linear model mean
+- What do drawbacks of linear model mean
+- What does drawbacks of linear model mean
+- How do drawbacks of linear model work
+- How does drawbacks of linear model work
+- How do drawbacks of linear model run
+- How does drawbacks of linear model run
+- How would you explain drawbacks of linear model
+- How would u explain drawbacks of linear model
+- How would you define drawbacks of linear model
+- How would u define drawbacks of linear model
+- How would you describe drawbacks of linear model
+- How would u describe drawbacks of linear model
+- How to drawbacks of linear model work
+- How to drawbacks of linear model run
+- Can you explain drawbacks of linear model
+- Can u explain drawbacks of linear model
+- Can you define drawbacks of linear model
+- Can u define drawbacks of linear model
+- Can you describe drawbacks of linear model
+- Can u describe drawbacks of linear model
+- I want to know drawbacks of linear model
+- I don't know about drawbacks of linear model
+- I would like to know about drawbacks of linear model
+- I don't understand drawbacks of linear model
+- explain drawbacks of linear model
+- define drawbacks of linear model
+- describe drawbacks of linear model
+
+## intent:collinearity
+- What collinearity
+- What is collinearity
+- What are collinearity
+- What collinearity mean
+- What do collinearity mean
+- What does collinearity mean
+- How do collinearity work
+- How does collinearity work
+- How do collinearity run
+- How does collinearity run
+- How would you explain collinearity
+- How would u explain collinearity
+- How would you define collinearity
+- How would u define collinearity
+- How would you describe collinearity
+- How would u describe collinearity
+- How to collinearity work
+- How to collinearity run
+- Can you explain collinearity
+- Can u explain collinearity
+- Can you define collinearity
+- Can u define collinearity
+- Can you describe collinearity
+- Can u describe collinearity
+- I want to know collinearity
+- I don't know about collinearity
+- I would like to know about collinearity
+- I don't understand collinearity
+- explain collinearity
+- define collinearity
+- describe collinearity
+
+## intent:regression model
+- What regression model
+- What is regression model
+- What are regression model
+- What regression model mean
+- What do regression model mean
+- What does regression model mean
+- How do regression model work
+- How does regression model work
+- How do regression model run
+- How does regression model run
+- How would you explain regression model
+- How would u explain regression model
+- How would you define regression model
+- How would u define regression model
+- How would you describe regression model
+- How would u describe regression model
+- How to regression model work
+- How to regression model run
+- Can you explain regression model
+- Can u explain regression model
+- Can you define regression model
+- Can u define regression model
+- Can you describe regression model
+- Can u describe regression model
+- I want to know regression model
+- I don't know about regression model
+- I would like to know about regression model
+- I don't understand regression model
+- explain regression model
+- define regression model
+- describe regression model
+
+## intent:decision tree
+- What decision tree
+- What is decision tree
+- What are decision tree
+- What decision tree mean
+- What do decision tree mean
+- What does decision tree mean
+- How do decision tree work
+- How does decision tree work
+- How do decision tree run
+- How does decision tree run
+- How would you explain decision tree
+- How would u explain decision tree
+- How would you define decision tree
+- How would u define decision tree
+- How would you describe decision tree
+- How would u describe decision tree
+- How to decision tree work
+- How to decision tree run
+- Can you explain decision tree
+- Can u explain decision tree
+- Can you define decision tree
+- Can u define decision tree
+- Can you describe decision tree
+- Can u describe decision tree
+- I want to know decision tree
+- I don't know about decision tree
+- I would like to know about decision tree
+- I don't understand decision tree
+- explain decision tree
+- define decision tree
+- describe decision tree
+
+## intent:random forest
+- What random forest
+- What is random forest
+- What are random forest
+- What random forest mean
+- What do random forest mean
+- What does random forest mean
+- How do random forest work
+- How does random forest work
+- How do random forest run
+- How does random forest run
+- How would you explain random forest
+- How would u explain random forest
+- How would you define random forest
+- How would u define random forest
+- How would you describe random forest
+- How would u describe random forest
+- How to random forest work
+- How to random forest run
+- Can you explain random forest
+- Can u explain random forest
+- Can you define random forest
+- Can u define random forest
+- Can you describe random forest
+- Can u describe random forest
+- I want to know random forest
+- I don't know about random forest
+- I would like to know about random forest
+- I don't understand random forest
+- explain random forest
+- define random forest
+- describe random forest
+
+## intent:kernel
+- What kernel
+- What is kernel
+- What are kernel
+- What kernel mean
+- What do kernel mean
+- What does kernel mean
+- How do kernel work
+- How does kernel work
+- How do kernel run
+- How does kernel run
+- How would you explain kernel
+- How would u explain kernel
+- How would you define kernel
+- How would u define kernel
+- How would you describe kernel
+- How would u describe kernel
+- How to kernel work
+- How to kernel run
+- Can you explain kernel
+- Can u explain kernel
+- Can you define kernel
+- Can u define kernel
+- Can you describe kernel
+- Can u describe kernel
+- I want to know kernel
+- I don't know about kernel
+- I would like to know about kernel
+- I don't understand kernel
+- explain kernel
+- define kernel
+- describe kernel
+
+## intent:overfitting
+- What overfitting
+- What is overfitting
+- What are overfitting
+- What overfitting mean
+- What do overfitting mean
+- What does overfitting mean
+- How do overfitting work
+- How does overfitting work
+- How do overfitting run
+- How does overfitting run
+- How would you explain overfitting
+- How would u explain overfitting
+- How would you define overfitting
+- How would u define overfitting
+- How would you describe overfitting
+- How would u describe overfitting
+- How to overfitting work
+- How to overfitting run
+- Can you explain overfitting
+- Can u explain overfitting
+- Can you define overfitting
+- Can u define overfitting
+- Can you describe overfitting
+- Can u describe overfitting
+- I want to know overfitting
+- I don't know about overfitting
+- I would like to know about overfitting
+- I don't understand overfitting
+- explain overfitting
+- define overfitting
+- describe overfitting
+
+## intent:boosting
+- What boosting
+- What is boosting
+- What are boosting
+- What boosting mean
+- What do boosting mean
+- What does boosting mean
+- How do boosting work
+- How does boosting work
+- How do boosting run
+- How does boosting run
+- How would you explain boosting
+- How would u explain boosting
+- How would you define boosting
+- How would u define boosting
+- How would you describe boosting
+- How would u describe boosting
+- How to boosting work
+- How to boosting run
+- Can you explain boosting
+- Can u explain boosting
+- Can you define boosting
+- Can u define boosting
+- Can you describe boosting
+- Can u describe boosting
+- I want to know boosting
+- I don't know about boosting
+- I would like to know about boosting
+- I don't understand boosting
+- explain boosting
+- define boosting
+- describe boosting
+
+## intent:Markow chains
+- What Markow chains
+- What is Markow chains
+- What are Markow chains
+- What Markow chains mean
+- What do Markow chains mean
+- What does Markow chains mean
+- How do Markow chains work
+- How does Markow chains work
+- How do Markow chains run
+- How does Markow chains run
+- How would you explain Markow chains
+- How would u explain Markow chains
+- How would you define Markow chains
+- How would u define Markow chains
+- How would you describe Markow chains
+- How would u describe Markow chains
+- How to Markow chains work
+- How to Markow chains run
+- Can you explain Markow chains
+- Can u explain Markow chains
+- Can you define Markow chains
+- Can u define Markow chains
+- Can you describe Markow chains
+- Can u describe Markow chains
+- I want to know Markow chains
+- I don't know about Markow chains
+- I would like to know about Markow chains
+- I don't understand Markow chains
+- explain Markow chains
+- define Markow chains
+- describe Markow chains
+
+## intent:statistical significance
+- What statistical significance
+- What is statistical significance
+- What are statistical significance
+- What statistical significance mean
+- What do statistical significance mean
+- What does statistical significance mean
+- How do statistical significance work
+- How does statistical significance work
+- How do statistical significance run
+- How does statistical significance run
+- How would you explain statistical significance
+- How would u explain statistical significance
+- How would you define statistical significance
+- How would u define statistical significance
+- How would you describe statistical significance
+- How would u describe statistical significance
+- How to statistical significance work
+- How to statistical significance run
+- Can you explain statistical significance
+- Can u explain statistical significance
+- Can you define statistical significance
+- Can u define statistical significance
+- Can you describe statistical significance
+- Can u describe statistical significance
+- I want to know statistical significance
+- I don't know about statistical significance
+- I would like to know about statistical significance
+- I don't understand statistical significance
+- explain statistical significance
+- define statistical significance
+- describe statistical significance
+
+## intent:Central Limit Theorem
+- What Central Limit Theorem
+- What is Central Limit Theorem
+- What are Central Limit Theorem
+- What Central Limit Theorem mean
+- What do Central Limit Theorem mean
+- What does Central Limit Theorem mean
+- How do Central Limit Theorem work
+- How does Central Limit Theorem work
+- How do Central Limit Theorem run
+- How does Central Limit Theorem run
+- How would you explain Central Limit Theorem
+- How would u explain Central Limit Theorem
+- How would you define Central Limit Theorem
+- How would u define Central Limit Theorem
+- How would you describe Central Limit Theorem
+- How would u describe Central Limit Theorem
+- How to Central Limit Theorem work
+- How to Central Limit Theorem run
+- Can you explain Central Limit Theorem
+- Can u explain Central Limit Theorem
+- Can you define Central Limit Theorem
+- Can u define Central Limit Theorem
+- Can you describe Central Limit Theorem
+- Can u describe Central Limit Theorem
+- I want to know Central Limit Theorem
+- I don't know about Central Limit Theorem
+- I would like to know about Central Limit Theorem
+- I don't understand Central Limit Theorem
+- explain Central Limit Theorem
+- define Central Limit Theorem
+- describe Central Limit Theorem
+
+## intent:statistical power
+- What statistical power
+- What is statistical power
+- What are statistical power
+- What statistical power mean
+- What do statistical power mean
+- What does statistical power mean
+- How do statistical power work
+- How does statistical power work
+- How do statistical power run
+- How does statistical power run
+- How would you explain statistical power
+- How would u explain statistical power
+- How would you define statistical power
+- How would u define statistical power
+- How would you describe statistical power
+- How would u describe statistical power
+- How to statistical power work
+- How to statistical power run
+- Can you explain statistical power
+- Can u explain statistical power
+- Can you define statistical power
+- Can u define statistical power
+- Can you describe statistical power
+- Can u describe statistical power
+- I want to know statistical power
+- I don't know about statistical power
+- I would like to know about statistical power
+- I don't understand statistical power
+- explain statistical power
+- define statistical power
+- describe statistical power
+
+## intent:outlier
+- What outlier
+- What is outlier
+- What are outlier
+- What outlier mean
+- What do outlier mean
+- What does outlier mean
+- How do outlier work
+- How does outlier work
+- How do outlier run
+- How does outlier run
+- How would you explain outlier
+- How would u explain outlier
+- How would you define outlier
+- How would u define outlier
+- How would you describe outlier
+- How would u describe outlier
+- How to outlier work
+- How to outlier run
+- Can you explain outlier
+- Can u explain outlier
+- Can you define outlier
+- Can u define outlier
+- Can you describe outlier
+- Can u describe outlier
+- I want to know outlier
+- I don't know about outlier
+- I would like to know about outlier
+- I don't understand outlier
+- explain outlier
+- define outlier
+- describe outlier
+
+## intent:missing data
+- What missing data
+- What is missing data
+- What are missing data
+- What missing data mean
+- What do missing data mean
+- What does missing data mean
+- How do missing data work
+- How does missing data work
+- How do missing data run
+- How does missing data run
+- How would you explain missing data
+- How would u explain missing data
+- How would you define missing data
+- How would u define missing data
+- How would you describe missing data
+- How would u describe missing data
+- How to missing data work
+- How to missing data run
+- Can you explain missing data
+- Can u explain missing data
+- Can you define missing data
+- Can u define missing data
+- Can you describe missing data
+- Can u describe missing data
+- I want to know missing data
+- I don't know about missing data
+- I would like to know about missing data
+- I don't understand missing data
+- explain missing data
+- define missing data
+- describe missing data
+
+## intent:root cause analysis
+- What root cause analysis
+- What is root cause analysis
+- What are root cause analysis
+- What root cause analysis mean
+- What do root cause analysis mean
+- What does root cause analysis mean
+- How do root cause analysis work
+- How does root cause analysis work
+- How do root cause analysis run
+- How does root cause analysis run
+- How would you explain root cause analysis
+- How would u explain root cause analysis
+- How would you define root cause analysis
+- How would u define root cause analysis
+- How would you describe root cause analysis
+- How would u describe root cause analysis
+- How to root cause analysis work
+- How to root cause analysis run
+- Can you explain root cause analysis
+- Can u explain root cause analysis
+- Can you define root cause analysis
+- Can u define root cause analysis
+- Can you describe root cause analysis
+- Can u describe root cause analysis
+- I want to know root cause analysis
+- I don't know about root cause analysis
+- I would like to know about root cause analysis
+- I don't understand root cause analysis
+- explain root cause analysis
+- define root cause analysis
+- describe root cause analysis
+
+## intent:Law of Large Numbers
+- What Law of Large Numbers
+- What is Law of Large Numbers
+- What are Law of Large Numbers
+- What Law of Large Numbers mean
+- What do Law of Large Numbers mean
+- What does Law of Large Numbers mean
+- How do Law of Large Numbers work
+- How does Law of Large Numbers work
+- How do Law of Large Numbers run
+- How does Law of Large Numbers run
+- How would you explain Law of Large Numbers
+- How would u explain Law of Large Numbers
+- How would you define Law of Large Numbers
+- How would u define Law of Large Numbers
+- How would you describe Law of Large Numbers
+- How would u describe Law of Large Numbers
+- How to Law of Large Numbers work
+- How to Law of Large Numbers run
+- Can you explain Law of Large Numbers
+- Can u explain Law of Large Numbers
+- Can you define Law of Large Numbers
+- Can u define Law of Large Numbers
+- Can you describe Law of Large Numbers
+- Can u describe Law of Large Numbers
+- I want to know Law of Large Numbers
+- I don't know about Law of Large Numbers
+- I would like to know about Law of Large Numbers
+- I don't understand Law of Large Numbers
+- explain Law of Large Numbers
+- define Law of Large Numbers
+- describe Law of Large Numbers
+
+## intent:control biases
+- What control biases
+- What is control biases
+- What are control biases
+- What control biases mean
+- What do control biases mean
+- What does control biases mean
+- How do control biases work
+- How does control biases work
+- How do control biases run
+- How does control biases run
+- How would you explain control biases
+- How would u explain control biases
+- How would you define control biases
+- How would u define control biases
+- How would you describe control biases
+- How would u describe control biases
+- How to control biases work
+- How to control biases run
+- Can you explain control biases
+- Can u explain control biases
+- Can you define control biases
+- Can u define control biases
+- Can you describe control biases
+- Can u describe control biases
+- I want to know control biases
+- I don't know about control biases
+- I would like to know about control biases
+- I don't understand control biases
+- explain control biases
+- define control biases
+- describe control biases
+
+## intent:confounding variables
+- What confounding variables
+- What is confounding variables
+- What are confounding variables
+- What confounding variables mean
+- What do confounding variables mean
+- What does confounding variables mean
+- How do confounding variables work
+- How does confounding variables work
+- How do confounding variables run
+- How does confounding variables run
+- How would you explain confounding variables
+- How would u explain confounding variables
+- How would you define confounding variables
+- How would u define confounding variables
+- How would you describe confounding variables
+- How would u describe confounding variables
+- How to confounding variables work
+- How to confounding variables run
+- Can you explain confounding variables
+- Can u explain confounding variables
+- Can you define confounding variables
+- Can u define confounding variables
+- Can you describe confounding variables
+- Can u describe confounding variables
+- I want to know confounding variables
+- I don't know about confounding variables
+- I would like to know about confounding variables
+- I don't understand confounding variables
+- explain confounding variables
+- define confounding variables
+- describe confounding variables
+
+## intent:A div B testing
+- What A div B testing
+- What is A div B testing
+- What are A div B testing
+- What A div B testing mean
+- What do A div B testing mean
+- What does A div B testing mean
+- How do A div B testing work
+- How does A div B testing work
+- How do A div B testing run
+- How does A div B testing run
+- How would you explain A div B testing
+- How would u explain A div B testing
+- How would you define A div B testing
+- How would u define A div B testing
+- How would you describe A div B testing
+- How would u describe A div B testing
+- How to A div B testing work
+- How to A div B testing run
+- Can you explain A div B testing
+- Can u explain A div B testing
+- Can you define A div B testing
+- Can u define A div B testing
+- Can you describe A div B testing
+- Can u describe A div B testing
+- I want to know A div B testing
+- I don't know about A div B testing
+- I would like to know about A div B testing
+- I don't understand A div B testing
+- explain A div B testing
+- define A div B testing
+- describe A div B testing
+
+## intent:quality assurance
+- What quality assurance
+- What is quality assurance
+- What are quality assurance
+- What quality assurance mean
+- What do quality assurance mean
+- What does quality assurance mean
+- How do quality assurance work
+- How does quality assurance work
+- How do quality assurance run
+- How does quality assurance run
+- How would you explain quality assurance
+- How would u explain quality assurance
+- How would you define quality assurance
+- How would u define quality assurance
+- How would you describe quality assurance
+- How would u describe quality assurance
+- How to quality assurance work
+- How to quality assurance run
+- Can you explain quality assurance
+- Can u explain quality assurance
+- Can you define quality assurance
+- Can u define quality assurance
+- Can you describe quality assurance
+- Can u describe quality assurance
+- I want to know quality assurance
+- I don't know about quality assurance
+- I would like to know about quality assurance
+- I don't understand quality assurance
+- explain quality assurance
+- define quality assurance
+- describe quality assurance
 ## intent:greet
 - hey
 - hello
@@ -5,39 +1159,12 @@
 - good morning
 - good evening
 - hey there
-- xin chào
-- chào bạn
-- mình có vài câu hỏi
-- có ai giúp mình không
-- bạn ơi
-- anh ơi
-- chị ơi
-- cháu ơi
-- có ai ở đây không?
 
 ## intent:goodbye
 - bye
 - goodbye
 - see you around
 - see you later
-- tạm biệt
-- chào tạm biệt
-- chào tạm biệt em
-- tạm biệt em
-- tạm biệt em nhé
-
-## intent:thank
-- chuẩn
-- hay
-- siêu
-- tuyệt
-- cám ơn
-- thanks
-- thank you
-- ok
-- cảm ơn em
-- cảm ơn em nhiều nhé
-- cảm ơn
 
 ## intent:affirm
 - yes
@@ -81,46 +1208,3 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
-
-## intent:eng_ask_neural_network
-- What is Neural Network?
-- Neural Network
-- What is NN?
-- NN?
-
-## intent:eng_steps_for_data_wrangling_and_data_cleaning
-- What are some of the steps for data wrangling and data cleaning before applying machine learning algorithms?
-- data wrangling
-- data cleaning
-
-## intent:eng_cross_validation
-- What is cross-validation?
-- cross-validation
-
-## intent:eng_supervised_learning_vs_unsupervised_learning
-- What is the difference between supervised learning and unsupervised learning?
-- supervised learning vs unsupervised learning
-
-## intent:eng_nlp
-- What does NLP stand for?
-- NLP
-
-## intent:eng_decision_trees
-- What is a decision tree?
-- decision tree
-
-## intent:eng_over_fitting
-- What is overfitting?
-- overfitting
-
-## intent:eng_precision_n_recall
-- Explain what precision and recall are?
-- precision and recall
-
-## intent:eng_regression_model_fits_the_data_well
-- How to check if the regression model fits the data well?
-- regression model fits the data
-
-## intent:eng_boosting
-- What is boosting?
-- boosting

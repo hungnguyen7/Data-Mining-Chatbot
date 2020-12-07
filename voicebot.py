@@ -7,20 +7,21 @@ from types import SimpleNamespace
 # sender=input('What is your name?\n')
 bot_message=''
 r = sr.Recognizer()
-while bot_message !='Bye' or bot_message!='thanks':
+while True:
     with sr.Microphone() as source:
         ques=speechToText_EN()
         # print(ques)
     if len(ques)==0:
-        print('I can\'t hear anything')
+        # print('I can\'t hear anything')
         continue
     print('Sending question to chatbot...')
-
+    # print(ques)
     response = requests.post('http://localhost:5002/webhooks/rest/webhook', json={'message': ques})
-    print(response.json())
-    data=json.loads(response.json(), object_hook= lambda d: SimpleNamespace(**d))
-    print('Bot says: ', end=' ')
-    for i in data:
-        print(type(i))
-    
-    textToSpeech_EN(bot_message) 
+    # print(response.json())
+    data=response.json()
+    #Chi tra loi text, khong doc
+    bot_message=data[0]['text']
+    textToSpeech_EN(bot_message)
+    # say bye or stop to stop chat
+    if(ques=='bye' or ques=='stop'):
+        break

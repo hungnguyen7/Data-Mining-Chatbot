@@ -1,92 +1,356 @@
-intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - thank
-  - eng_ask_neural_network
-  - eng_steps_for_data_wrangling_and_data_cleaning
-  - eng_cross_validation
-  - eng_supervised_learning_vs_unsupervised_learning
-  - eng_nlp
-  - eng_decision_trees
-  - eng_over_fitting
-  - eng_precision_n_recall
-  - eng_regression_model_fits_the_data_well
-  - eng_boosting
-
-responses:
-  utter_greet:
-  - text: "Hey! How are you?"
-  - text: "Kính chào Quý khách!"
-  
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
-  utter_goodbye:
-  - text: "Bye"
-
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
-
-  utter_thank:
-  - text: "No problem :D"
-  - text: "Dạ không có gì, đó là trách nhiệm của em mà!"
-
-  utter_eng_ask_neural_network:
-  - text: "A neural network is a multi-layered model inspired by the human brain. Like the neurons in our brain, the circles above represent a node. The blue circles represent the input layer, the black circles represent the hidden layers, and the green circles represent the output layer. Each node in the hidden layers represents a function that the inputs go through, ultimately leading to an output in the green circles. The formal term for these functions is called the sigmoid activation function."
-    image: "https://miro.medium.com/max/875/0*nUvHJmFBGaj3vZqJ.png"
-
-  utter_eng_steps_for_data_wrangling_and_data_cleaning:
-  - text: |
-            There are many steps that can be taken when data wrangling and data cleaning. Some of the most common steps are listed below:
-            - **Data profiling**: Almost everyone starts off by getting an understanding of their dataset. More specifically, you can look at the shape of the dataset with .shape and a description of your numerical variables with .describe().
-            - **Data visualizations**: Sometimes, it’s useful to visualize your data with histograms, boxplots, and scatterplots to better understand the relationships between variables and also to identify potential outliers.
-            - **Syntax error**: This includes making sure there’s no white space, making sure letter casing is consistent, and checking for typos. You can check for typos by using .unique() or by using bar graphs.
-            - **Standardization or normalization**: Depending on the dataset your working with and the machine learning method you decide to use, it may be useful to standardize or normalize your data so that different scales of different variables don’t negatively impact the performance of your model.
-            - **Handling null values**: There are a number of ways to handle null values including deleting rows with null values altogether, replacing null values with the mean/median/mode, replacing null values with a new category (eg. unknown), predicting the values, or using machine learning models that can deal with null values.
-            - **Other things include**: removing irrelevant data, removing duplicates, and type conversion.
-  
-  utter_eng_cross_validation:
-  - text: "Cross-validation is essentially a technique used to assess how well a model performs on a new independent dataset. The simplest example of cross-validation is when you split your data into two groups: training data and testing data, where you use the training data to build the model and the testing data to test the model."
-
-  utter_eng_supervised_learning_vs_unsupervised_learning:
-  - text: |
-            - Supervised learning involves learning a function that maps an input to an output based on example input-output pairs.
-            - Unsupervised learning is used to draw inferences and find patterns from input data without references to labeled outcomes. A common use of unsupervised learning is grouping customers by purchasing behavior to find target markets.
-
-  utter_eng_nlp:
-  - text: "NLP stands for Natural Language Processing. It is a branch of artificial intelligence that gives machines the ability to read and understand human languages."
-
-  utter_eng_decision_trees:
-  - text: "Decision trees are a popular model, used in operations research, strategic planning, and machine learning. Each square above is called a node, and the more nodes you have, the more accurate your decision tree will be (generally). The last nodes of the decision tree, where a decision is made, are called the leaves of the tree. Decision trees are intuitive and easy to build but fall short when it comes to accuracy."
-
-  utter_eng_over_fitting:
-  - text: "Overfitting is an error where the model ‘fits’ the data too well, resulting in a model with high variance and low bias. As a consequence, an overfit model will inaccurately predict new data points even though it has a high accuracy on the training data."
-    image: "https://miro.medium.com/max/471/0*I_TPBWoG-glBVjb2.png"
-
-  utter_eng_precision_n_recall:
-  - text: "Recall attempts to answer “What proportion of actual positives was identified correctly?”\nPrecision attempts to answer “What proportion of positive identifications was actually correct?”"
-
-  utter_eng_regression_model_fits_the_data_well: 
-  - text: |
-            There are a couple of metrics that you can use:
-              - **R-squared/Adjusted R-squared**: Relative measure of fit. This was explained in a previous answer
-              - **F1 Score**: Evaluates the null hypothesis that all regression coefficients are equal to zero vs the alternative hypothesis that at least one doesn’t equal zero
-              - **RMSE**: Absolute measure of fit.
-
-  utter_eng_boosting:
-    - text: "Boosting is an ensemble method to improve a model by reducing its bias and variance, ultimately converting weak learners to strong learners. The general idea is to train a weak learner and sequentially iterate and improve the model by learning from the previous learner."
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+intents:
+- data wrangling and data cleaning
+- unbalanced binary classification
+- box plot and histogram
+- regularization methods
+- Neural Network
+- cross-validation
+- select metrics
+- precision and recall
+- false positive and false negative
+- supervised learning and unsupervised learning
+- generate a predictive model using multiple regression
+- NLP stand for
+- random forests Vs SVM
+- dimension reduction
+- Naives Bayes
+- drawbacks of linear model
+- collinearity
+- regression model
+- decision tree
+- random forest
+- kernel
+- overfitting
+- boosting
+- Markow chains
+- statistical significance
+- Central Limit Theorem
+- statistical power
+- outlier
+- missing data
+- root cause analysis
+- Law of Large Numbers
+- control biases
+- confounding variables
+- A div B testing
+- quality assurance
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- nlu_fallback
+responses:
+  utter_data wrangling and data cleaning:
+  - text: "- There are many steps that can be taken when data wrangling and data cleaning.\
+      \ Some of the most common steps are listed below:\n- Data profiling:Almost everyone\
+      \ starts off by getting an understanding of their dataset. More specifically,\
+      \ you can look at the shape of the dataset with .shape and a description of\
+      \ your numerical variables with .describe().\n- Data visualizations:Sometimes,\
+      \ it’s useful to visualize your data with histograms, boxplots, and scatterplots\
+      \ to better understand the relationships between variables and also to identify\
+      \ potential outliers.\n- Syntax error: This includes making sure there’s no\
+      \ white space, making sure letter casing is consistent, and checking for typos.\
+      \ You can check for typos by using .unique() or by using bar graphs.\n- Standardization\
+      \ or normalization: Depending on the dataset your working with and the machine\
+      \ learning method you decide to use, it may be useful to standardize or normalize\
+      \ your data so that different scales of different variables don’t negatively\
+      \ impact the performance of your model.\n- Handling null values:There are a\
+      \ number of ways to handle null values including deleting rows with null values\
+      \ altogether, replacing null values with the mean/median/mode, replacing null\
+      \ values with a new category (eg. unknown), predicting the values, or using\
+      \ machine learning models that can deal with null values.\n- Other things include:removing\
+      \ irrelevant data, removing duplicates, and type conversion.\n"
+  utter_unbalanced binary classification:
+  - text: "- There are a number of ways to handle unbalanced binary classification\
+      \ (assuming that you want to identify the minority class):\n- First, you want\
+      \ to reconsider the metrics that you’d use to evaluate your model. The accuracy\
+      \ of your model might not be the best metric to look at because and I’ll use\
+      \ an example to explain why. Let’s say 99 bank withdrawals were not fraudulent\
+      \ and 1 withdrawal was. If your model simply classified every instance as “not\
+      \ fraudulent”, it would have an accuracy of 99%! Therefore, you may want to\
+      \ consider using metrics like precision and recall.\n- Another method to improve\
+      \ unbalanced binary classification is by increasing the cost of misclassifying\
+      \ the minority class. By increasing the penalty of such, the model should classify\
+      \ the minority class more accurately.\n- Lastly, you can improve the balance\
+      \ of classes by oversampling the minority class or by under sampling the majority\
+      \ class\n"
+  utter_box plot and histogram:
+  - text: "- Boxplot vs Histogram\n- While boxplots and histograms are visualizations\
+      \ used to show the distribution of the data, they communicate information differently.\n\
+      - Histograms are bar charts that show the frequency of a numerical variable’s\
+      \ values and are used to approximate the probability distribution of the given\
+      \ variable. It allows you to quickly understand the shape of the distribution,\
+      \ the variation, and potential outliers.\n- Boxplots communicate different aspects\
+      \ of the distribution of data. While you can’t see the shape of the distribution\
+      \ through a box plot, you can gather other information like the quartiles, the\
+      \ range, and outliers. Boxplots are especially useful when you want to compare\
+      \ multiple charts at the same time because they take up less space than histograms.\n"
+  utter_regularization methods:
+  - text: "- Both L1 and L2 regularization are methods used to reduce the overfitting\
+      \ of training data. Least Squares minimizes the sum of the squared residuals,\
+      \ which can result in low bias but high variance.\n- L2 Regularization, also\
+      \ called ridge regression, minimizes the sum of the squared residuals plus lambda\
+      \ times the slope squared. This additional term is called theRidge Regression\
+      \ Penalty. This increases the bias of the model, making the fit worse on the\
+      \ training data, but also decreases the variance.\n- If you take the ridge regression\
+      \ penalty and replace it with the absolute value of the slope, then you get\
+      \ Lasso regression or L1 regularization.\n- L2 is less robust but has a stable\
+      \ solution and always one solution. L1 is more robust but has an unstable solution\
+      \ and can possibly have multiple solutions.\n"
+  utter_Neural Network:
+  - text: A neural network is a multi-layered model inspired by the human brain. Like
+      the neurons in our brain, the circles above represent a node. The blue circles
+      represent the input layer,the black circles represent the hidden layers,and
+      the green circles represent the output layer.Each node in the hidden layers
+      represents a function that the inputs go through, ultimately leading to an output
+      in the green circles. The formal term for these functions is called the sigmoid
+      activation function.
+  utter_cross-validation:
+  - text: 'Cross-validation is essentially a technique used to assess how well a model
+      performs on a new independent dataset. The simplest example of cross-validation
+      is when you split your data into two groups: training data and testing data,
+      where you use the training data to build the model and the testing data to test
+      the model.'
+  utter_select metrics:
+  - text: "- There isn’t a one-size-fits-all metric. The metric(s) chosen to evaluate\
+      \ a machine learning model depends on various factors:\n- Is it a regression\
+      \ or classification task?What is the business objective? Eg. precision vs recallWhat\
+      \ is the distribution of the target variable?\n- There are a number of metrics\
+      \ that can be used, including adjusted r-squared, MAE, MSE, accuracy, recall,\
+      \ precision, f1 score, and the list goes on.\n"
+  utter_precision and recall:
+  - text: "- Recall attempts to answer “What proportion of actual positives was identified\
+      \ correctly?”\n- Precision attempts to answer “What proportion of positive identifications\
+      \ was actually correct?”\n"
+  utter_false positive and false negative:
+  - text: "- A false positive is an incorrect identification of the presence of a\
+      \ condition when it’s absent.\n- A false negative is an incorrect identification\
+      \ of the absence of a condition when it’s actually present.\n- An example of\
+      \ when false negatives are more important than false positives is when screening\
+      \ for cancer. It’s much worse to say that someone doesn’t have cancer when they\
+      \ do, instead of saying that someone does and later realizing that they don’t.\n\
+      - This is a subjective argument, but false positives can be worse than false\
+      \ negatives from a psychological point of view. For example, a false positive\
+      \ for winning the lottery could be a worse outcome than a false negative because\
+      \ people normally don’t expect to win the lottery anyways.\n"
+  utter_supervised learning and unsupervised learning:
+  - text: "- Supervised learning involves learning a function that maps an input to\
+      \ an output based on example input-output pairs.\n- For example, if I had a\
+      \ dataset with two variables, age (input) and height (output), I could implement\
+      \ a supervised learning model to predict the height of a person based on their\
+      \ age.\n- Unlike supervised learning,unsupervised learning is used to draw inferences\
+      \ and find patterns from input data without references to labeled outcomes.\
+      \ A common use of unsupervised learning is grouping customers by purchasing\
+      \ behavior to find target markets.\n"
+  utter_generate a predictive model using multiple regression:
+  - text: "- There are two main ways that you can do this:\n- A) Adjusted R-squared.\n\
+      - R Squared is a measurement that tells you to what extent the proportion of\
+      \ variance in the dependent variable is explained by the variance in the independent\
+      \ variables. In simpler terms, while the coefficients estimate trends, R-squared\
+      \ represents the scatter around the line of best fit.\n- However, every additional\
+      \ independent variable added to a model always increases the R-squared value\
+      \ — therefore, a model with several independent variables may seem to be a better\
+      \ fit even if it isn’t. This is where adjusted R² comes in. The adjusted R²\
+      \ compensates for each additional independent variable and only increases if\
+      \ each given variable improves the model above what is possible by probability.\
+      \ This is important since we are creating a multiple regression model.\n- B)\
+      \ Cross-Validation\n- A method common to most people is cross-validation, splitting\
+      \ the data into two sets: training and testing data\n"
+  utter_NLP stand for:
+  - text: NLP stands forNatural Language Processing. It is a branch of artificial
+      intelligence that gives machines the ability to read and understand human languages.
+  utter_random forests Vs SVM:
+  - text: "- There are a couple of reasons why a random forest is a better choice\
+      \ of model than a support vector machine:\n- Random forests allow you to determine\
+      \ the feature importance. SVM’s can’t do this.Random forests are much quicker\
+      \ and simpler to build than an SVM.For multi-class classification problems,\
+      \ SVMs require a one-vs-rest method, which is less scalable and more memory\
+      \ intensive.\n"
+  utter_dimension reduction:
+  - text: "- Dimensionality reduction is the process of reducing the number of features\
+      \ in a dataset. This is important mainly in the case when you want to reduce\
+      \ variance in your model (overfitting).\n- Wikipedia states four advantages\
+      \ of dimensionality reduction\n- It reduces the time and storage space requiredRemoval\
+      \ of multi-collinearity improves the interpretation of the parameters of the\
+      \ machine learning modelIt becomes easier to visualize the data when reduced\
+      \ to very low dimensions such as 2D or 3DIt avoids the curse of dimensionality\n"
+  utter_Naives Bayes:
+  - text: A naive Bayes classifier is an algorithm that uses Bayes' theorem to classify
+      objects. Naive Bayes classifiers assume strong, or naive, independence between
+      attributes of data points. Popular uses of naive Bayes classifiers include spam
+      filters, text analysis and medical diagnosis. These classifiers are widely used
+      for machine learning because they are simple to implement. Naive Bayes is also
+      known as simple Bayes or independence Bayes.
+  utter_drawbacks of linear model:
+  - text: "- There are a couple of drawbacks of a linear model:\n- A linear model\
+      \ holds some strong assumptions that may not be true in application. It assumes\
+      \ a linear relationship, multivariate normality, no or little multicollinearity,\
+      \ no auto-correlation and homoscedasticity. A linear model can’t be used for\
+      \ discrete or binary outcomes.You can’t vary the model flexibility of a linear\
+      \ model.\n"
+  utter_collinearity:
+  - text: "- Multicollinearity exists when an independent variable is highly correlated\
+      \ with another independent variable in a multiple regression equation. This\
+      \ can be problematic because it undermines the statistical significance of an\
+      \ independent variable.\n- You could use the Variance Inflation Factors (VIF)\
+      \ to determine if there is any multicollinearity between independent variables\
+      \ — a standard benchmark is that if the VIF is greater than 5 then multicollinearity\
+      \ exists.\n"
+  utter_regression model:
+  - text: "- There are a couple of metrics that you can use:\n- R-squared/Adjusted\
+      \ R-squared:Relative measure of fit.This was explained in a previous answer\n\
+      - F1 Score: Evaluates the null hypothesis that all regression coefficients are\
+      \ equal to zero vs the alternative hypothesis that at least one doesn’t equal\
+      \ zero\n- RMSE:Absolute measure of fit.\n"
+  utter_decision tree:
+  - text: Decision trees are a popular model, used in operations research, strategic
+      planning, and machine learning. Each square above is called anode, and the more
+      nodes you have, the more accurate your decision tree will be (generally). The
+      last nodes of the decision tree, where a decision is made, are called the leaves
+      of the tree. Decision trees are intuitive and easy to build but fall short when
+      it comes to accuracy.
+  utter_random forest:
+  - text: "- Random forests are an ensemble learning technique that builds off of\
+      \ decision trees. Random forests involve creating multiple decision trees usingbootstrapped\
+      \ datasetsof the original data and randomly selecting a subset of variables\
+      \ at each step of the decision tree. The model then selects the mode of all\
+      \ of the predictions of each decision tree. By relying on a “majority wins”\
+      \ model, it reduces the risk of error from an individual tree.\n- For example,\
+      \ if we created one decision tree, the third one, it would predict 0. But if\
+      \ we relied on the mode of all 4 decision trees, the predicted value would be\
+      \ 1. This is the power of random forests.\n- Random forests offer several other\
+      \ benefits including strong performance, can model non-linear boundaries, no\
+      \ cross-validation needed, and gives feature importance.\n"
+  utter_kernel:
+  - text: "- A kernel is a way of computing the dot product of two vectors\U0001D431\
+      x and\U0001D432y in some (possibly very high dimensional) feature space, which\
+      \ is why kernel functions are sometimes called “generalized dot product”\n-\
+      \ The kernel trick is a method of using a linear classifier to solve a non-linear\
+      \ problem by transforming linearly inseparable data to linearly separable ones\
+      \ in a higher dimension.\n"
+  utter_overfitting:
+  - text: Overfitting is an error where the model ‘fits’ the data too well, resulting
+      in a model with high variance and low bias. As a consequence, an overfit model
+      will inaccurately predict new data points even though it has a high accuracy
+      on the training data.
+  utter_boosting:
+  - text: Boosting is an ensemble method to improve a model by reducing its bias and
+      variance, ultimately converting weak learners to strong learners. The general
+      idea is to train a weak learner and sequentially iterate and improve the model
+      by learning from the previous learner
+  utter_Markow chains:
+  - text: "- “A Markov chain is a mathematical system that experiences transitions\
+      \ from one state to another according to certain probabilistic rules. The defining\
+      \ characteristic of a Markov chain is that no matter how the process arrived\
+      \ at its present state, the possible future states are fixed. In other words,\
+      \ the probability of transitioning to any particular state is dependent solely\
+      \ on the current state and time elapsed.”\n- The actual math behind Markov chains\
+      \ requires knowledge on linear algebra and matrices, so I’ll leave some links\
+      \ below in case you want to explore this topic further on your own.\n"
+  utter_statistical significance:
+  - text: "- Along-tailed distribution is a type of heavy-tailed distribution that\
+      \ has a tail (or tails) that drop off gradually and asymptotically.\n- 3 practical\
+      \ examples include the power law, the Pareto principle (more commonly known\
+      \ as the 80–20 rule), and product sales (i.e. best selling products vs others).\n\
+      - It’s important to be mindful of long-tailed distributions in classification\
+      \ and regression problems because the least frequently occurring values make\
+      \ up the majority of the population. This can ultimately change the way that\
+      \ you deal with outliers, and it also conflicts with some machine learning techniques\
+      \ with the assumption that the data is normally distributed.\n"
+  utter_Central Limit Theorem:
+  - text: ‘Statistical power’ refers to the power of a binary hypothesis, which is
+      the probability that the test rejects the null hypothesis given that the alternative
+      hypothesis is true. [2]
+  utter_statistical power:
+  - text: "- Selection bias is the phenomenon of selecting individuals, groups or\
+      \ data for analysis in such a way that proper randomization is not achieved,\
+      \ ultimately resulting in a sample that is not representative of the population.\n\
+      - Understanding and identifying selection bias is important because it can significantly\
+      \ skew results and provide false insights about a particular population group.\n\
+      - Types of selection bias include:\n- sampling bias: a biased sample caused\
+      \ by non-random sampling time interval: selecting a specific time frame that\
+      \ supports the desired conclusion. e.g. conducting a sales analysis near Christmas.exposure:\
+      \ includes clinical susceptibility bias, protopathic bias, indication bias.data:\
+      \ includes cherry-picking, suppressing evidence, and the fallacy of incomplete\
+      \ evidence.attrition: attrition bias is similar to survivorship bias, where\
+      \ only those that ‘survived’ a long process are included in an analysis, or\
+      \ failure bias, where those that ‘failed’ are only included observer selection:\
+      \ related to the Anthropic principle, which is a philosophical consideration\
+      \ that any data we collect about the universe is filtered by the fact that,\
+      \ in order for it to be observable, it must be compatible with the conscious\
+      \ and sapient life that observes it. [3]\n- Handling missing data can make selection\
+      \ bias worse because different methods impact the data in different ways. For\
+      \ example, if you replace null values with the mean of the data, you adding\
+      \ bias in the sense that you’re assuming that the data is not as spread out\
+      \ as it might actually be.\n"
+  utter_outlier:
+  - text: "- There are several ways to handle missing data:\n- Delete rows with missing\
+      \ dataMean/Median/Mode imputationAssigning a unique valuePredicting the missing\
+      \ valuesUsing an algorithm which supports missing values, like random forests\n\
+      - The best method is to delete rows with missing data as it ensures that no\
+      \ bias or variance is added or removed, and ultimately results in a robust and\
+      \ accurate model. However, this is only recommended if there’s a lot of data\
+      \ to start with and the percentage of missing values is low.\n"
+  utter_missing data:
+  - text: "- First I would conduct EDA — Exploratory Data Analysis to clean, explore,\
+      \ and understand my data.See my article on EDA here.As part of my EDA, I could\
+      \ compose a histogram of the duration of calls to see the underlying distribution.\n\
+      - My guess is that the duration of calls would follow a log normal distribution\
+      \ (see below). The reason that I believe it’s positively skewed is because the\
+      \ lower end is limited to 0 since a call can’t be negative seconds. However,\
+      \ on the upper end, it’s likely for there to be a small proportion of calls\
+      \ that are extremely long relatively.\n- You could use a QQ plot to confirm\
+      \ whether the duration of calls follows a log normal distribution or not\n"
+  utter_root cause analysis:
+  - text: When there are a number of outliers that positively or negatively skew the
+      data.
+  utter_Law of Large Numbers:
+  - text: "- Formula for margin of error\n- You can use the margin of error (ME) formula\
+      \ to determine the desired sample size.\n- t/z = t/z score used to calculate\
+      \ the confidence intervalME = the desired margin of errorS = sample standard\
+      \ deviation\n"
+  utter_control biases:
+  - text: There are many things that you can do to control and minimize bias. Two
+      common things include randomization, where participants are assigned by chance,
+      and random sampling, sampling in which each member has an equal probability
+      of being chosen.
+  utter_confounding variables:
+  - text: A confounding variable, or a confounder, is a variable that influences both
+      the dependent variable and the independent variable, causing a spurious association,
+      a mathematical relationship in which two or more variables are associated but
+      not causally related.
+  utter_A div B testing:
+  - text: A/B testing is a form of hypothesis testing and two-sample hypothesis testing
+      to compare two versions, the control and variant, of a single variable. It is
+      commonly used to improve and optimize user experience and marketing.
+  utter_quality assurance:
+  - text: "- Quality assurance:an activity or set of activities focused on maintaining\
+      \ a desired level of quality by minimizing mistakes and defects.\n- Six sigma:a\
+      \ specific type of quality assurance methodology composed of a set of techniques\
+      \ and tools for process improvement. A six sigma process is one in which 99.99966%\
+      \ of all outcomes are free of defects.\n- References\n- [1]Central Limit Theorem,\
+      \ Definition and Examples in Easy Steps,Statistics How To\n- [2]Power, Statistics,Wikipedia\n\
+      - [3]Anthropic principle,Wikipedia\n- [4]Design of experiments,Wikipedia\n-\
+      \ [5]Root cause analysis,Wikipedia\n- Thanks for Reading!\n- Check out theInterview\
+      \ Query Youtube channel for more data science mock interviews and example solutions."
+  utter_greet:
+  - text: Hey! How are you?
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Bye
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?

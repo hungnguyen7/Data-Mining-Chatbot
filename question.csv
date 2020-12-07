@@ -1,0 +1,85 @@
+id,ques
+1,What are some of the steps for data wrangling and data cleaning before applying machine learning algorithms?
+2,How to deal with unbalanced binary classification?
+3,What is the difference between a box plot and a histogram?
+4,"Describe different regularization methods, such as L1 and L2 regularization?"
+5,Neural Network Fundamentals
+6,What is cross-validation?
+7,How to define/select metrics?
+8,Explain what precision and recall are
+9,"Explain what a false positive and a false negative are. Why is it important these from each other? Provide examples when false positives are more important than false negatives, false negatives are more important than false positives and when these two types of errors are equally important"
+10,What is the difference between supervised learning and unsupervised learning? Give concrete examples
+11,Assume you need to generate a predictive model using multiple regression. Explain how you intend to validate this model
+12,What does NLP stand for?
+13,When would you use random forests Vs SVM and why?
+14,Why is dimension reduction important?
+15,What is principal component analysis? Explain the sort of problems you would use PCA for.
+16,Why is Naive Bayes so bad? How would you improve a spam detection algorithm that uses naive Bayes?
+17,What are the drawbacks of a linear model?
+18,Do you think 50 small decision trees are better than a large one? Why?
+19,Why is mean square error a bad measure of model performance? What would you suggest instead?
+20,What are the assumptions required for linear regression? What if some of these assumptions are violated?
+21,What is collinearity and what to do with it? How to remove multicollinearity?
+22,How to check if the regression model fits the data well?
+23,What is a decision tree?
+24,What is a random forest? Why is it good?
+25,What is a kernel? Explain the kernel trick
+26,Is it beneficial to perform dimensionality reduction before fitting an SVM? Why or why not?
+27,What is overfitting?
+28,What is boosting?
+29,"The probability that item an item at location A is 0.6, and 0.8 at location B. What is the probability that item would be found on Amazon website?"
+30,"You randomly draw a coin from 100 coins — 1 unfair coin (head-head), 99 fair coins (head-tail) and roll it 10 times. If the result is 10 heads, what is the probability that the coin is unfair?"
+31,Difference between convex and non-convex cost function; what does it mean when a cost function is non-convex?
+32,Walk through the probability fundamentals
+33,Describe Markov chains?
+34,"A box has 12 red cards and 12 black cards. Another box has 24 red cards and 24 black cards. You want to draw two cards at random from one of the two boxes, one card at a time. Which box has a higher probability of getting cards of the same color and why?"
+35,"You are at a Casino and have two dices to play with. You win $10 every time you roll a 5. If you play till you win and then stop, what is the expected payout?"
+36,How can you tell if a given coin is biased?
+37,Make an unfair coin fair
+38,"You are about to get on a plane to London, you want to know whether you have to bring an umbrella or not. You call three of your random friends and ask each one of them if it’s raining. The probability that your friend is telling the truth is 2/3 and the probability that they are playing a prank on you by lying is 1/3. If all 3 of them tell that it is raining, then what is the probability that it is actually raining in London."
+39,"You are given 40 cards with four different colors- 10 Green cards, 10 Red Cards, 10 Blue cards, and 10 Yellow cards. The cards of each color are numbered from one to ten. Two cards are picked at random. Find out the probability that the cards picked are not of the same number and same color."
+40,How do you assess the statistical significance of an insight?
+41,Explain what a long-tailed distribution is and provide three examples of relevant phenomena that have long tails. Why are they important in classification and regression problems?
+42,What is the Central Limit Theorem? Explain it. Why is it important?
+43,What is the statistical power?
+44,"Explain selection bias (with regard to a dataset, not variable selection). Why is it important? How can data management procedures such as missing data handling make it worse?"
+45,Provide a simple example of how an experimental design can help answer a question about behavior. How does experimental data contrast with observational data?
+46,Is mean imputation of missing data acceptable practice? Why or why not?
+47,"What is an outlier? Explain how you might screen for outliers and what would you do if you found them in your dataset. Also, explain what an inlier is and how you might screen for them and what would you do if you found them in your dataset."
+48,How do you handle missing data? What imputation techniques do you recommend?
+49,"You have data on the duration of calls to a call center. Generate a plan for how you would code and analyze these data. Explain a plausible scenario for what the distribution of these durations might look like. How could you test, even graphically, whether your expectations are borne out?"
+50,Explain likely differences between administrative datasets and datasets gathered from experimental studies. What are likely problems encountered with administrative data? How do experimental methods help alleviate these problems? What problem do they bring?
+51,"You are compiling a report for user content uploaded every month and notice a spike in uploads in October. In particular, a spike in picture uploads. What might you think is the cause of this, and how would you test it?"
+52,"Give examples of data that does not have a Gaussian distribution, nor log-normal."
+53,What is root cause analysis? How to identify a cause vs. a correlation? Give examples
+54,Give an example where the median is a better measure than the mean
+55,"Given two fair dices, what is the probability of getting scores that sum to 4? to 8?"
+56,What is the Law of Large Numbers?
+57,"When you sample, what bias are you inflicting?"
+58,How do you control for biases?
+59,What are confounding variables?
+60,What is A/B testing?
+61,How do you prove that males are on average taller than females by knowing just gender height?
+62,Infection rates at a hospital above a 1 infection per 100 person-days at risk are considered high. A hospital had 10 infections over the last 1787 person-days at risk. Give the p-value of the correct one-sided test of whether the hospital is below the standard.
+63,You roll a biased coin (p(head)=0.8) five times. What’s the probability of getting three or more heads?
+64,A random variable X is normal with mean 1020 and a standard deviation 50. Calculate P(X>1200)
+65,Consider the number of people that show up at a bus station is Poisson with mean 2.5/h. What is the probability that at most three people show up in a four hour period?
+66,An HIV test has a sensitivity of 99.7% and a specificity of 98.5%. A subject from a population of prevalence 0.1% receives a positive test result. What is the precision of the test (i.e the probability he is HIV positive)?
+67,You are running for office and your pollster polled hundred people. Sixty of them claimed they will vote for you. Can you relax?
+68,Geiger counter records 100 radioactive decays in 5 minutes. Find an approximate 95% interval for the number of decays per hour.
+69,The homicide rate in Scotland fell last year to 99 from 115 the year before. Is this reported change really noteworthy?
+70,Consider influenza epidemics for two-parent heterosexual families. Suppose that the probability is 17% that at least one of the parents has contracted the disease. The probability that the father has contracted influenza is 12% while the probability that both the mother and father have contracted the disease is 6%. What is the probability that the mother has contracted influenza?
+71,Suppose that diastolic blood pressures (DBPs) for men aged 35–44 are normally distributed with a mean of 80 (mm Hg) and a standard deviation of 10. About what is the probability that a random 35–44 year old has a DBP less than 70?
+72,"In a population of interest, a sample of 9 men yielded a sample average brain volume of 1,100cc and a standard deviation of 30cc. What is a 95% Student’s T confidence interval for the mean brain volume in this new population?"
+73,A diet pill is given to 9 subjects over six weeks. The average difference in weight (follow up — baseline) is -2 pounds. What would the standard deviation of the difference in weight have to be for the upper endpoint of the 95% T confidence interval to touch 0?
+74,"In a study of emergency room waiting times, investigators consider a new and the standard triage systems. To test the systems, administrators selected 20 nights and randomly assigned the new triage system to be used on 10 nights and the standard system on the remaining 10 nights. They calculated the nightly median waiting time (MWT) to see a physician. The average MWT for the new system was 3 hours with a variance of 0.60 while the average MWT for the old system was 5 hours with a variance of 0.68. Consider the 95% confidence interval estimate for the differences of the mean MWT associated with the new system. Assume a constant variance. What is the interval? Subtract in this order (New System — Old System)."
+75,"To further test the hospital triage system, administrators selected 200 nights and randomly assigned a new triage system to be used on 100 nights and a standard system on the remaining 100 nights. They calculated the nightly median waiting time (MWT) to see a physician. The average MWT for the new system was 4 hours with a standard deviation of 0.5 hours while the average MWT for the old system was 6 hours with a standard deviation of 2 hours. Consider the hypothesis of a decrease in the mean MWT associated with the new treatment. What does the 95% independent group confidence interval with unequal variances suggest vis a vis this hypothesis? (Because there’s so many observations per group, just use the Z quantile instead of the T.)"
+76,"If there are 8 marbles of equal weight and 1 marble that weighs a little bit more (for a total of 9 marbles), how many weighings are required to determine which marble is the heaviest?"
+77,How would the change of prime membership fee affect the market?
+78,"If 70% of Facebook users on iOS use Instagram, but only 35% of Facebook users on Android use Instagram, how would you investigate the discrepancy?"
+79,Likes/user and minutes spent on a platform are increasing but total number of users are decreasing. What could be the root cause of it?
+80,"Facebook sees that likes are up 10% year over year, why could this be?"
+81,"If we were testing product X, what metrics would you look at to determine if it is a success?"
+82,"If a PM says that they want to double the number of ads in Newsfeed, how would you figure out if this is a good idea or not?"
+83,"What is: lift, KPI, robustness, model fitting, design of experiments, 80/20 rule?"
+84,"Define quality assurance, six sigma."

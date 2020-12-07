@@ -6,9 +6,9 @@ import os
 import time
 def textToSpeech_EN(text):
     output=gTTS(text, lang='en', slow=False)
-    output.save('output.mp3')
-    playsound.playsound('output.mp3', True)
-
+    output.save('mp3/output.mp3')
+    playsound.playsound('mp3/output.mp3', True)
+    os.remove('mp3/output.mp3')
 def textToSpeech_VI(text):
     url = 'https://api.fpt.ai/hmi/tts/v5'
     payload = text

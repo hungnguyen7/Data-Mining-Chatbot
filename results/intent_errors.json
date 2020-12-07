@@ -1,0 +1,178 @@
+[
+  {
+    "text": "hi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8595380783081055
+    }
+  },
+  {
+    "text": "correct",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7426495552062988
+    }
+  },
+  {
+    "text": "never",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "hello",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "of course",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "don't like that",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "awful",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9409907460212708
+    }
+  },
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "yes",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "not really",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9889191389083862
+    }
+  },
+  {
+    "text": "perfect",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "amazing",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "that sounds good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9307138323783875
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9598008990287781
+    }
+  },
+  {
+    "text": "I'm good",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "unhappy",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "good morning",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7483531832695007
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "I don't think so",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "nlu_fallback",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "wonderful",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7488270401954651
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9792649745941162
+    }
+  }
+]
